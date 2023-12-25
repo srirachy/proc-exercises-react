@@ -43,16 +43,11 @@ const NavBarExercises = () => {
                         Fourteen
                       </Link>
                     </li>
-                    {/* <li>
-                      <a className="dropdown-item" href="#">
-                        Another action
-                      </a>
-                    </li>
                     <li>
-                      <a className="dropdown-item" href="#">
-                        Something else here
-                      </a>
-                    </li> */}
+                      <Link className="dropdown-item" to="/Fifteen">
+                        Fifteen
+                      </Link>
+                    </li>
                   </ul>
                 </li>
               </ul>
