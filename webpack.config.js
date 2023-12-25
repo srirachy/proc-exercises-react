@@ -21,4 +21,7 @@ module.exports = {
     ],
   },
   plugins: [htmlPlugin],
+  devServer: {
+    allowedHosts: "all",
+  },
 };
